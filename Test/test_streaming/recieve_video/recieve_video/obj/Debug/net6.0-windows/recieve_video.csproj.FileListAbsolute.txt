@@ -1,0 +1,49 @@
+C:\Users\gary3\Desktop\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.exe
+C:\Users\gary3\Desktop\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.deps.json
+C:\Users\gary3\Desktop\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.runtimeconfig.json
+C:\Users\gary3\Desktop\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.dll
+C:\Users\gary3\Desktop\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.pdb
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.csproj.AssemblyReference.cache
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.Form1.resources
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.csproj.GenerateResource.cache
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.AssemblyInfoInputs.cache
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.AssemblyInfo.cs
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.csproj.CoreCompileInputs.cache
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.dll
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\refint\recieve_video.dll
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.pdb
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.genruntimeconfig.cache
+C:\Users\gary3\Desktop\recieve_video\recieve_video\obj\Debug\net6.0-windows\ref\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.exe
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.deps.json
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.runtimeconfig.json
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.pdb
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.Form1.resources
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.csproj.GenerateResource.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.AssemblyInfoInputs.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.AssemblyInfo.cs
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.csproj.CoreCompileInputs.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\refint\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.pdb
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.genruntimeconfig.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\recieve_video\obj\Debug\net6.0-windows\ref\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.exe
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.deps.json
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.runtimeconfig.json
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\bin\Debug\net6.0-windows\recieve_video.pdb
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.Form1.resources
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.csproj.GenerateResource.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.AssemblyInfoInputs.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.AssemblyInfo.cs
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.csproj.CoreCompileInputs.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\refint\recieve_video.dll
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.pdb
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\recieve_video.genruntimeconfig.cache
+C:\Users\gary3\OneDrive\바탕 화면\recieve_video\recieve_video\obj\Debug\net6.0-windows\ref\recieve_video.dll
